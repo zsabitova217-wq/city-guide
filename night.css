@@ -1,7 +1,7 @@
 body {
   margin: 0px;
-  background-color: #040404de;
-  color: #e3e0de;
+  background-color: #0f100f;
+  color: #8b6750;
   font-family: Arial;
   font-size: 18px;
   line-height: 1.5;
@@ -9,7 +9,7 @@ body {
 h1,
 h2,
 h3 {
-  color: #afd275;
+  color: #bfc1bd;
 }
 h1 {
   font-size: 24px;
@@ -35,7 +35,7 @@ a {
   text-decoration: none;
 }
 .site-header {
-  background-color: #c2cad0;
+  background-color: #0f100f;
   padding: 24px;
 }
 .menu a {
@@ -50,7 +50,7 @@ a {
   border-radius: 8px;
 }
 .button-outline {
-  background-color: #d5dbcb;
+  background-color: #8a917f;
   border: 2px solid #e7717d;
   color: #e7717d;
 }
@@ -60,11 +60,11 @@ a {
   padding: 2px;
   border: 2px solid #e7717d;
   border-radius: 8px;
-  background-color: #d5dbcb;
+  background-color: #0f100f;
   margin-bottom: 24px;
 }
 .card-top {
-  background-color: #ddf5b5;
+  background-color: #30302e;
   border: 2px solid #1a0d05;
 }
 
@@ -86,13 +86,23 @@ a {
   background-color: #edf0e8;
 }
 .note {
-  background-color: #cce6a0;
+  background-color: #0f100f;
   padding: 16px 26px;
   border-left: 10px;
 }
 .site-footer {
-  background-color: #edf0e8;
+  background-color: #0f100f;
   color: #7a3b14;
   padding: 16px 26px;
   text-align: center;
+}
+body {
+  background-color: #121212;
+  color: #eeeeee;
+}
+
+.hero,
+.places,
+.tips {
+  background-color: transparent;
 }
