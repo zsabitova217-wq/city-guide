@@ -42,3 +42,15 @@ a {
   color: #e7717d;
   margin-right: 20px;
 }
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #afd275;
+  color: #ffffff;
+  border-radius: 8px;
+}
+.button-outline {
+  background-color: #d5dbcb;
+  border: 2px solid #e7717d;
+  color: #e7717d;
+}
