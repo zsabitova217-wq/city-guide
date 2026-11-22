@@ -63,6 +63,11 @@ a {
   background-color: #d5dbcb;
   margin-bottom: 24px;
 }
+.card-top {
+  background-color: #ddf5b5;
+  border: 2px solid #1a0d05;
+}
+
 .card-icon {
   font-size: 30px;
 }
