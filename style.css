@@ -54,3 +54,23 @@ a {
   border: 2px solid #e7717d;
   color: #e7717d;
 }
+.card {
+  width: 500px;
+  box-sizing: border-box;
+  padding: 2px;
+  border: 2px solid #e7717d;
+  border-radius: 8px;
+  background-color: #d5dbcb;
+  margin-bottom: 24px;
+}
+.card-icon {
+  font-size: 30px;
+}
+.card h3 {
+  padding: 10px;
+}
+.card-info {
+  font-size: 24px;
+  font-weight: 600px;
+  color: #7a3b14;
+}
