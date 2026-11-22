@@ -31,3 +31,14 @@ h3 {
   font-size: 28px;
   font-weight: 700;
 }
+a {
+  text-decoration: none;
+}
+.site-header {
+  background-color: #c2cad0;
+  padding: 24px;
+}
+.menu a {
+  color: #e7717d;
+  margin-right: 20px;
+}
