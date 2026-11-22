@@ -1,0 +1,98 @@
+body {
+  margin: 0px;
+  background-color: #040404de;
+  color: #e3e0de;
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 1.5;
+}
+h1,
+h2,
+h3 {
+  color: #afd275;
+}
+h1 {
+  font-size: 24px;
+}
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 16px;
+}
+.accent {
+  color: #e7717d;
+}
+.logo {
+  font-size: 22px;
+  font-weight: 600;
+}
+.hero-label {
+  font-size: 28px;
+  font-weight: 700;
+}
+a {
+  text-decoration: none;
+}
+.site-header {
+  background-color: #c2cad0;
+  padding: 24px;
+}
+.menu a {
+  color: #e7717d;
+  margin-right: 20px;
+}
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #afd275;
+  color: #ffffff;
+  border-radius: 8px;
+}
+.button-outline {
+  background-color: #d5dbcb;
+  border: 2px solid #e7717d;
+  color: #e7717d;
+}
+.card {
+  width: 500px;
+  box-sizing: border-box;
+  padding: 2px;
+  border: 2px solid #e7717d;
+  border-radius: 8px;
+  background-color: #d5dbcb;
+  margin-bottom: 24px;
+}
+.card-top {
+  background-color: #ddf5b5;
+  border: 2px solid #1a0d05;
+}
+
+.card-icon {
+  font-size: 30px;
+}
+.card h3 {
+  padding: 10px;
+}
+.card-info {
+  font-size: 24px;
+  font-weight: 600px;
+  color: #7a3b14;
+}
+.hero,
+.places,
+.tips {
+  padding: 6px 26px;
+  background-color: #edf0e8;
+}
+.note {
+  background-color: #cce6a0;
+  padding: 16px 26px;
+  border-left: 10px;
+}
+.site-footer {
+  background-color: #edf0e8;
+  color: #7a3b14;
+  padding: 16px 26px;
+  text-align: center;
+}
